@@ -164,8 +164,5 @@ void AllTest(TestRunner& test) {
 int main() {
 	TestRunner runner;
 	AllTest(runner);
-
-	
-	// добавьте сюда свои тесты
 	return 0;
 }
